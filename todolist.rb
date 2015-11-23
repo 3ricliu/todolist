@@ -93,6 +93,6 @@ def quote_of_the_day
 	elsif q == 7
 		$quote = "Worry does not empty tomorrow of its sorrow; it empties today of its strength"
 	elsif q == 8
-		$quote = "Sometimes I feel like giving up, then I remember I have a lot of motherfuckers to prove wrong."
+		$quote = "Sometimes I feel like giving up, then I remember I have a lot of people to prove wrong."
 	end
 end
